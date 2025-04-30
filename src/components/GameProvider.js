@@ -69,11 +69,11 @@ export const GameProvider = (props) => {
             Url: "",
             platform: "EVOLUTION",
         },
-        {
-            Logo: playngo,
-            Url: "",
-            platform: "PLAYNGO",
-        },
+        // {
+        //     Logo: playngo,
+        //     Url: "",
+        //     platform: "PLAYNGO",
+        // },
         {
             Logo: logo8,
             Url: "",
@@ -94,11 +94,11 @@ export const GameProvider = (props) => {
         //     Url: "",
         //     platform: "VRLOTTO",
         // },
-        {
-            Logo: logo28,
-            Url: "",
-            platform: "YESBINGO",
-        },
+        // {
+        //     Logo: logo28,
+        //     Url: "",
+        //     platform: "YESBINGO",
+        // },
         {
             Logo: logo2,
             Url: "",
@@ -109,11 +109,11 @@ export const GameProvider = (props) => {
             Url: "",
             platform: "HORSEBOOK",
         },
-        {
-            Logo: logo5,
-            Url: "",
-            platform: "PF",
-        },
+        // {
+        //     Logo: logo5,
+        //     Url: "",
+        //     platform: "PF",
+        // },
         {
             Logo: logo6,
             Url: "",
@@ -140,30 +140,30 @@ export const GameProvider = (props) => {
             platform: "VENUS",
         },
         {
-            Logo: logo11,
-            Url: "",
-            platform: "DRAGOONSOFT",
-        },
-        {
             Logo: logo12,
             Url: "",
             platform: "DRAGOONSOFT",
         },
-        {
-            Logo: logo13,
-            Url: "",
-            platform: "DRAGOONSOFT",
-        },
+        // {
+        //     Logo: logo12,
+        //     Url: "",
+        //     platform: "DRAGOONSOFT",
+        // },
+        // {
+        //     Logo: logo13,
+        //     Url: "",
+        //     platform: "DRAGOONSOFT",
+        // },
         {
             Logo: logo14,
             Url: "",
             platform: "LUDO",
         },
-        {
-            Logo: logo15,
-            Url: "",
-            platform: "DRAGOONSOFT",
-        },
+        // {
+        //     Logo: logo15,
+        //     Url: "",
+        //     platform: "DRAGOONSOFT",
+        // },
         {
             Logo: logo17,
             Url: "",
