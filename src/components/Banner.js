@@ -202,7 +202,7 @@ export const Banner = (props) => {
                                     <SplideSlide key={key}>
                                         <div className="relative">
                                             <img
-                                                src={(imgURL.isPromotion) ? `https://bundaii.com/ama-bundai/uploads/${imgURL?.name}` : require(`../assets/img/banner/${imgURL.name}.jpg`)}
+                                                src={(imgURL.isPromotion) ? `http://bundaii.com/ama-bundai/uploads/${imgURL?.name}` : require(`../assets/img/banner/${imgURL.name}.jpg`)}
                                                 className="rounded-xl" style={{height:'200px',width:'475px'}}
                                                 onClick={() => signUp(imgURL)}
                                             />
