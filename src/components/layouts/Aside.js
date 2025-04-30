@@ -166,10 +166,10 @@ export const Aside = () => {
         //     Text: t("Table Game"),
         //     Type: "table",
         // },
-        // {
-        //     Text: t("Sports"),
-        //     Type: "sports",
-        // },
+        {
+            Text: t("Sports"),
+            Type: "sports",
+        },
         // {
         //     Text: t("EGame"),
         //     Type: "egame",
