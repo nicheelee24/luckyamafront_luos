@@ -54,21 +54,21 @@ export const GameProvider = (props) => {
             Url: "",
             platform: "PT",
         },
-        {
-            Logo: logo22,
-            Url: "",
-            platform: "PP",
-        },
+        // {
+        //     Logo: logo22,
+        //     Url: "",
+        //     platform: "PP",
+        // },
         {
             Logo: sexyBaccarat,
             Url: "",
             platform: "SEXYBCRT",
         },
-        {
-            Logo: evolution,
-            Url: "",
-            platform: "EVOLUTION",
-        },
+        // {
+        //     Logo: evolution,
+        //     Url: "",
+        //     platform: "EVOLUTION",
+        // },
         // {
         //     Logo: playngo,
         //     Url: "",
@@ -79,11 +79,11 @@ export const GameProvider = (props) => {
             Url: "",
             platform: "KINGMAKER",
         },
-        {
-            Logo: logo24,
-            Url: "",
-            platform: "RT",
-        },
+        // {
+        //     Logo: logo24,
+        //     Url: "",
+        //     platform: "RT",
+        // },
         {
             Logo: logo25,
             Url: "",
@@ -114,16 +114,16 @@ export const GameProvider = (props) => {
         //     Url: "",
         //     platform: "PF",
         // },
-        {
-            Logo: logo6,
-            Url: "",
-            platform: "LUCKYPOKER",
-        },
-        {
-            Logo: logo7,
-            Url: "",
-            platform: "JILI",
-        },
+        // {
+        //     Logo: logo6,
+        //     Url: "",
+        //     platform: "LUCKYPOKER",
+        // },
+        // {
+        //     Logo: logo7,
+        //     Url: "",
+        //     platform: "JILI",
+        // },
         // {
         //   Logo: logo8,
         //   Url: '',
@@ -134,11 +134,11 @@ export const GameProvider = (props) => {
         //     Url: "",
         //     platform: "LUCKYPOKER",
         // },
-        {
-            Logo: logo10,
-            Url: "",
-            platform: "VENUS",
-        },
+        // {
+        //     Logo: logo10,
+        //     Url: "",
+        //     platform: "VENUS",
+        // },
         {
             Logo: logo12,
             Url: "",
