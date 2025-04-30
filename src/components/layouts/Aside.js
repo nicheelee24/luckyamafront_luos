@@ -154,36 +154,36 @@ export const Aside = () => {
             Text: t("Lobby"),
             Type:"lobby"
         },
-        {
-            Text: t("Slots"),
-            Type: "slot",
-        },
-        {
-            Text: t("Live Casino"),
-            Type: "live",
-        },
-        {
-            Text: t("Table Game"),
-            Type: "table",
-        },
-        {
-            Text: t("Sports"),
-            Type: "sports",
-        },
-        {
-            Text: t("EGame"),
-            Type: "egame",
-        },
+        // {
+        //     Text: t("Slots"),
+        //     Type: "slot",
+        // },
+        // {
+        //     Text: t("Live Casino"),
+        //     Type: "live",
+        // },
+        // {
+        //     Text: t("Table Game"),
+        //     Type: "table",
+        // },
+        // {
+        //     Text: t("Sports"),
+        //     Type: "sports",
+        // },
+        // {
+        //     Text: t("EGame"),
+        //     Type: "egame",
+        // },
 
-        {
-            Text: t("Fishing Game"),
-            Type: "fishing",
-        },
-        {
-            Text: t("Thai Game"),
-            Type: "thai",
-            // Type: 'CHICKEN'
-        },
+        // {
+        //     Text: t("Fishing Game"),
+        //     Type: "fishing",
+        // },
+        // {
+        //     Text: t("Thai Game"),
+        //     Type: "thai",
+        //     // Type: 'CHICKEN'
+        // },
 
         // {
         //     Text: t("Lotto"),
@@ -232,10 +232,10 @@ export const Aside = () => {
             Text: t("My Bet List"),
             Type: "MyBetList",
         },
-        {
-            Text: t("Announce"),
-            Type: "Announce",
-        },
+        // {
+        //     Text: t("Announce"),
+        //     Type: "Announce",
+        // },
     ];
 
     const handleIsLang = (e) => {
