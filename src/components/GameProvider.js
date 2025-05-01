@@ -39,11 +39,11 @@ export const GameProvider = (props) => {
     const navigation = useNavigate();
 
     const Logos = [
-        {
-            Logo: logo16,
-            Url: "",
-            platform: "PG",
-        },
+        // {
+        //     Logo: logo16,
+        //     Url: "",
+        //     platform: "PG",
+        // },
         // {
         //     Logo: logo19,
         //     Url: "",
@@ -84,11 +84,11 @@ export const GameProvider = (props) => {
         //     Url: "",
         //     platform: "RT",
         // },
-        {
-            Logo: logo25,
-            Url: "",
-            platform: "SPADE",
-        },
+        // {
+        //     Logo: logo25,
+        //     Url: "",
+        //     platform: "SPADE",
+        // },
         // {
         //     Logo: logo27,
         //     Url: "",
@@ -169,11 +169,11 @@ export const GameProvider = (props) => {
             Url: "",
             platform: "YL",
         },
-        {
-            Logo: logo18,
-            Url: "",
-            platform: "PLAY8",
-        },
+        // {
+        //     Logo: logo18,
+        //     Url: "",
+        //     platform: "PLAY8",
+        // },
         {
             Logo: logo29,
             Url: "",
