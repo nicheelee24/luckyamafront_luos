@@ -49,11 +49,11 @@ export const GameProvider = (props) => {
         //     Url: "",
         //     platform: "BG",
         // },
-        {
-            Logo: logo20,
-            Url: "",
-            platform: "PT",
-        },
+        // {
+        //     Logo: logo20,
+        //     Url: "",
+        //     platform: "PT",
+        // },
         // {
         //     Logo: logo22,
         //     Url: "",
